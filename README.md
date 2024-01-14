@@ -15,3 +15,9 @@ cd excel-app
 npm install bootstrap
 
 clonar o Git!!!!
+
+==== TESTE ====
+
+NOTA: adaptar nomes se necessário
+
+.....\excel-app> python -m pytest
