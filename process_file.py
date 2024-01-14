@@ -27,7 +27,7 @@ def process_excel():
             ]
 
             if set(file_columns) == set(expected_columns):
-                return jsonify({'data': {'message' : 'Sucesso o Ficheiro é Válido'}}), 200
+                return jsonify({'data': {'message' : 'Sucesso o Ficheiro éVálido'}}), 200
             else:
                 return jsonify({'error': {'message' : 'Colunas do arquivo não correspondem às esperadas'}}), 400
         else:
