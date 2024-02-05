@@ -1,10 +1,12 @@
 # ESII
 
-Neste repositório estão os documentos de levantamento de requesitos da disciplina de Eng. Software II.
-
 O projecto é "Mapeamento e Conciliação Orçamental de Títulos de Transporte" da DGAJ.
 
-É composto por documento explicativo PDF e por diagramas feitos em starUML
+Neste repositório estão os documentos de levantamento de requesitos da disciplina de Eng. Software II.
+
+>> Pasta Requisitos
+
+>> É composto por documento explicativo PDF e por diagramas feitos em starUML
 
 ## Como Instalar
 
