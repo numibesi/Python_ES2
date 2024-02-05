@@ -4,7 +4,7 @@ O projecto é "Mapeamento e Conciliação Orçamental de Títulos de Transporte"
 
 ## Screenshots
 
-![App Screenshot](https://wdx.pt/esii/screen1.png)
+![Screensot - Plataforma](https://wdx.pt/esii/screen1.png)
 
 Neste repositório estão os documentos de levantamento de requesitos da disciplina de Eng. Software II.
 
