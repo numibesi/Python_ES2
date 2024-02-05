@@ -50,7 +50,7 @@ def process_excel():
             return jsonify({'error': {'message' : 'O arquivo deve ser um arquivo Excel (.xlsx)'}}), 400
     except Exception as e:
         print(e)
-        return jsonify({'error': {'message' : 'Ficheiro Inválido'}}), 500
+        return jsonify({'error': {'message' : 'Estrutura de Ficheiro Inválida'}}), 500
 
 if __name__ == '__main__':
     app.run(debug=False)
