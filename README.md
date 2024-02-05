@@ -32,4 +32,7 @@ Neste repositório estão os documentos de levantamento de requesitos da discipl
 
 ## Executado por
 
+## Autores
+
+- [@numibesi](https://www.github.com/numibesi)
 Nuno Simões Eng. Informática N.º 61123 Instituto Piaget - Almada
