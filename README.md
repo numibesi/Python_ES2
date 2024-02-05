@@ -17,8 +17,10 @@ Neste repositório estão os documentos de levantamento de requesitos da discipl
 ## ReactJS
 (num terminal)
 
->> npm i
->> npm start
+```bash
+npm i
+npm start
+```
 
 ## python - API
 (num terminal)
