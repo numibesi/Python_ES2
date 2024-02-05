@@ -10,9 +10,9 @@ Neste repositório estão os documentos de levantamento de requesitos da discipl
 
 ## Como Instalar
 
->> clone do git
+> clone do git
 
->> importar o ficheiro tribunal.sql para o seu sistema de BD (está em mySQL)
+> importar o ficheiro tribunal.sql para o seu sistema de BD (está em mySQL)
 
 ## ReactJS
 (num terminal)
@@ -25,12 +25,16 @@ npm start
 ## python - API
 (num terminal)
 
->> python .\process_file.py
+```bash
+python .\process_file.py
+```
 
 ## python - API - TESTE
 (num terminal)
 
->> python -m pytest --no-header -v .\test_main_app.py
+```bash
+python -m pytest --no-header -v .\test_main_app.py
+```
 
 ## Executado por
 
