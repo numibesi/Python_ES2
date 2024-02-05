@@ -1,4 +1,5 @@
 ESII
+
 Neste repositório estão os documentos de levantamento de requesitos da disciplina de Eng. Software II.
 
 O projecto é "Mapeamento e Conciliação Orçamental de Títulos de Transporte" da DGAJ.
@@ -8,6 +9,7 @@ O projecto é "Mapeamento e Conciliação Orçamental de Títulos de Transporte"
 ### Como Instalar ###
 
 >> clone do git
+>> importar o ficheiro tribunal.sql para o seu sistema de BD (está em mySQL)
 
 ### ReactJS ###
 (num terminal)
