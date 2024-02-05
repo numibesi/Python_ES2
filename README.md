@@ -2,6 +2,10 @@
 
 O projecto é "Mapeamento e Conciliação Orçamental de Títulos de Transporte" da DGAJ.
 
+## Screenshots
+
+![App Screenshot](https://edx.pt/esii/screen1.png)
+
 Neste repositório estão os documentos de levantamento de requesitos da disciplina de Eng. Software II.
 
 > Pasta Requisitos
